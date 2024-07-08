@@ -86,8 +86,8 @@ Now you can start on the [landing page](http://localhost/) or browse the [API](h
 
 Visited:
  - `http://localhost/`
- - `http://localhost:/api/`
- - `http://localhost:/api/heath`
+ - `http://localhost/api/`
+ - `http://localhost/api/heath`
 
 Get ingress pod name:
 ```bash
